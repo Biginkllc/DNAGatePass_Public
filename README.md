@@ -68,9 +68,47 @@ This repo exists as the **public branding anchor** for potential future developm
 ## 📄 Status
 
 ✔ Brand concept reserved  
-✔ UD domain bundle secured (.blockchain, .crypto, .wallet, .onchain, etc.)  
+✔ Comprehensive DNAGatePass domain ecosystem secured (see below) 
 ✔ GitHub namespace established  
 ✔ Open to acquisition inquiries  
+
+## 🌐 DNAGatePass Domain Portfolio (Updated January 2025)
+
+## 🌐 DNAGatePass Domain Portfolio (Updated January 2025)
+
+The DNAGatePass naming ecosystem now includes a comprehensive set of domains spanning commercial, humanitarian, aviation, hardware, and decentralized identity layers:
+
+### **Primary Flagship Domains**
+- **dnagatepass.com**
+- **dnagatepass.org**
+
+### **Aviation / Credentialing**
+- **dnagatepass.pilot**
+
+### **Hardware / Embedded Identity**
+- **dnagatepass.chip**
+
+### **Web3 & Decentralized Identity (Defensive Bundle)**
+- **dnagatepass.web3**
+- **dnagatepass.unstoppable**
+- **dnagatepass.blockchain**
+- **dnagatepass.onchain**
+- **dnagatepass.wallet**
+- **dnagatepass.crypto**
+- **dnagatepass.dao**
+
+### **Purpose of This Bundle**
+These domains collectively secure:
+- Commercial and enterprise identity pathways  
+- Humanitarian, clergy, and Red Cross clearance lanes  
+- Airline crew / pilot identity channels  
+- Embedded microchip or chip-pass systems  
+- Blockchain/on-chain verifiable identity  
+- DAO governance extensions  
+- Wallet-based ID infrastructure  
+
+This defensive bundle prevents brand dilution and ensures that DNAGatePass™ remains a unified, premium naming asset for future acquisition or development.
+
 
 ❗ No active software is included in this repository.  
 This is a **brand placeholder** and specification outline.
